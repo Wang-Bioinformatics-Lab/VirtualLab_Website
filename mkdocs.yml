@@ -2,6 +2,7 @@ site_name: Virtual Lab
 
 nav:
     - About: index.md
+    - Members: members.md
     
 theme:
     name: material
