@@ -1,7 +1,6 @@
 # Virtual Multi-Omics Lab (V-MOL)
 
-
-![Logo](./docs/img/LOGO_VMOL_Chrom.png)
+<img src="/docs/img/LOGO_VMOL_Chrom.png" alt="Alt text" title="Optional title">
 
 ## Mission
 
