@@ -1,4 +1,4 @@
-site_name: Documentation Template
+site_name: Virtual Lab
 
 nav:
     - About: index.md
@@ -12,9 +12,7 @@ theme:
 extra:
     social:
         - type: 'github'
-          link: 'https://github.com/mwang87'
-        - type: 'twitter'
-          link: 'https://twitter.com/mingxunwang'
+          link: 'https://github.com/Wang-Bioinformatics-Lab'
 
 plugins:
     - search
