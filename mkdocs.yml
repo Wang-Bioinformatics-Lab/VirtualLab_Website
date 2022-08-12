@@ -1,7 +1,8 @@
 site_name: Virtual Lab
 
 nav:
-    - About: index.md
+    - Home: index.md
+    - Process: process.md
     - Members: members.md
     
 theme:
