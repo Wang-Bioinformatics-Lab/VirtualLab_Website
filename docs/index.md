@@ -1,6 +1,7 @@
 # Virtual Multi-Omics Lab (V-MOL)
 
-<img src="https://github.com/Wang-Bioinformatics-Lab/VirtualLab_Website/tree/master/docs/img/LOGO_VMOL_Chrom.png" height="200">
+
+![Logo](./docs/img/LOGO_VMOL_Chrom.png)
 
 ## Mission
 
