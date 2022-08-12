@@ -1,5 +1,7 @@
 # Virtual Multi-Omics Lab (V-MOL)
 
+<img src="VirtualLab_Website/docs/img/LOGO_VMOL_Chrom.png" height="200">
+
 ## Mission
 
 The V-MOL aims to connect computational biologists/chemists around the globe in a virtual research group by removing physical and economical barriers of entry to science. The V-MOL provides training in computational mass spectrometry and data science of multi-omics experiments with the goal to launch virtual research projects as a new form of collaborative science. 
