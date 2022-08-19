@@ -20,7 +20,7 @@ Daniel Petras
 University of Tuebingen
 
 
-## Reserach Scientists
+## Research Scientists
 
 
 ## Students
