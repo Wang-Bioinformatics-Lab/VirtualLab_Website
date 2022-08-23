@@ -1,5 +1,5 @@
 
-<img src="docs/img/LOGO_VMOL_Chrom.png" alt="Alt text" title="Optional title">
+<img src="img/LOGO_VMOL_Chrom.png" alt="Alt text" title="Optional title">
 
 
 ## Mission
