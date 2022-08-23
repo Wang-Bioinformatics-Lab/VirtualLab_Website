@@ -1,5 +1,5 @@
 
-<img src="/docs/img/LOGO_VMOL_Chrom.png" alt="Alt text" title="Optional title">
+<img src="docs/img/LOGO_VMOL_Chrom.png" alt="Alt text" title="Optional title">
 
 
 ## Mission
@@ -10,9 +10,9 @@ The V-MOL, led by Mingxun Wang, Allegra Aron and Daniel Petras aims to connect c
 
 ## Projects
 
-soon
+Coming Soon!
 
 
 ## Join the Team
 
-soon
+Join us at in the [Virtual Lab](contact.md)

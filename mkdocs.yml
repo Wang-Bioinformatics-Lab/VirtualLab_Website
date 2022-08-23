@@ -4,6 +4,7 @@ nav:
     - Home: index.md
     - Process: process.md
     - Members: members.md
+    - Contact: contact.md
     
 theme:
     name: material
