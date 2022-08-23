@@ -1,3 +1,3 @@
 ## Contact Us
 
-Email us at EMAIL HERE. 
+Email us at virtualmultiomicslab@gmail.com. 
