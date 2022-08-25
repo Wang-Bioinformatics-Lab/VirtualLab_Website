@@ -29,7 +29,9 @@
 ** Meeting Schedule **
 
 PI Leaders: Bi-weekly Meetings
+
 Full Virtual Lab Meeting: Monthly
+
 One-on-one meetings: 15 min meetings with PIs for progress and next steps
 
 ## Communication
