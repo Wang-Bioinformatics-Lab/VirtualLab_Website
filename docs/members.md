@@ -1,26 +1,41 @@
-## Principal Investigators
+## Scientists
 
 
 <img src="https://pbs.twimg.com/profile_images/1480201579005239299/q2pTI8uq_400x400.jpg" width="200" height="200">
 
-Allegra Aron
+Allegra Aron (Executive Board)
 University of Denver
 
 
-<img src="https://pbs.twimg.com/profile_images/1261319138967879680/cOrZRe5G_400x400.jpg" width="200" height="200">
+<img src="https://pbs.twimg.com/profile_images/1143849303196209153/iuW3RS4Z_400x400.png" width="200" height="200">
 
-Mingxun Wang 
-University of California Riverside
-
+Madeleine Ersnt 
 
 
 <img src="https://uni-tuebingen.de/fileadmin/_processed_/1/1/csm_Petras_quadratisch_22afdc16ba.jpg" width="200" height="200">
 
-Daniel Petras
+Daniel Petras (Executive Board)
 University of Tuebingen
 
 
-## Research Scientists
+<img src="https://avatars.githubusercontent.com/u/10366914?v=4" width="200" height="200">
+
+Robin Schmid
+University of California San Diego
+
+<img src="https://pbs.twimg.com/profile_images/1261319138967879680/cOrZRe5G_400x400.jpg" width="200" height="200">
+
+Mingxun Wang (Executive Board)
+University of California Riverside
+
+
+
 
 
 ## Students
+
+Abzer Pakkir Mohamed Shah
+University of Tuebingen
+
+Valentina Muti
+University of California San Diego
