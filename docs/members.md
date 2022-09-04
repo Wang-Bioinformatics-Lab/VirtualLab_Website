@@ -5,6 +5,8 @@
 
 Allegra Aron (Executive Board)\
 University of Denver
+<br/>
+<br/>
 
 
 
@@ -12,6 +14,8 @@ University of Denver
 
 Madeleine Ernst\
 Staten Serum Institute Denmark
+<br/>
+<br/>
 
 
 
@@ -19,6 +23,8 @@ Staten Serum Institute Denmark
 
 Daniel Petras (Executive Board)\
 University of Tuebingen
+<br/>
+<br/>
 
 
 
@@ -26,6 +32,8 @@ University of Tuebingen
 
 Robin Schmid\
 University of California San Diego / IOCB Prague
+<br/>
+<br/>
 
 
 
@@ -33,6 +41,8 @@ University of California San Diego / IOCB Prague
 
 Mingxun Wang (Executive Board)\
 University of California Riverside
+<br/>
+<br/>
 
 
 
@@ -42,6 +52,8 @@ University of California Riverside
 
 Valentina Muti\
 University of California San Diego
+<br/>
+<br/>
 
 
 Abzer Pakkir Mohamed Shah\
