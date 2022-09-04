@@ -9,7 +9,8 @@ University of Denver
 
 <img src="https://pbs.twimg.com/profile_images/1143849303196209153/iuW3RS4Z_400x400.png" width="200" height="200">
 
-Madeleine Ersnt 
+Madeleine Ersnt
+Staten Serum Institute Denmark
 
 
 <img src="https://uni-tuebingen.de/fileadmin/_processed_/1/1/csm_Petras_quadratisch_22afdc16ba.jpg" width="200" height="200">
@@ -21,7 +22,7 @@ University of Tuebingen
 <img src="https://avatars.githubusercontent.com/u/10366914?v=4" width="200" height="200">
 
 Robin Schmid
-University of California San Diego
+University of California San Diego / IOCB Prague
 
 <img src="https://pbs.twimg.com/profile_images/1261319138967879680/cOrZRe5G_400x400.jpg" width="200" height="200">
 
@@ -34,8 +35,10 @@ University of California Riverside
 
 ## Students
 
-Abzer Pakkir Mohamed Shah
-University of Tuebingen
 
 Valentina Muti
 University of California San Diego
+
+
+Abzer Pakkir Mohamed Shah
+University of Tuebingen
