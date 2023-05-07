@@ -2,9 +2,11 @@ site_name: Virtual Lab
 
 nav:
     - Home: index.md
+    - Meetings: meetings.md
     - Process: process.md
     - Members: members.md
     - Contact: contact.md
+    
     
 theme:
     name: material
