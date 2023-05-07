@@ -4,7 +4,6 @@ The quarterly symposium is a meeting of the virtual lab, where we discuss the pr
 
 | Date | Recording |
 | ---- | --------- |
-| 2023-05-04 | [Recording](XXX) |
 
 
 ## On-going Lab Meetings
