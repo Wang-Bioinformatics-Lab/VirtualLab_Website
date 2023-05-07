@@ -11,8 +11,8 @@ The V-MOL, led by Mingxun Wang, Allegra Aron and Daniel Petras aims to connect c
 | Project Name | People |
 | ------------ | ------ |
 | Elucidating the Chemistry of La Jolla Stromatolites| Denise Selegato, Jarmo Kalinski, Alexandros Polyzois, Maïa Henry, Allegra Aron |
-| Hitchhiker's Guide to Statistical Analysis | Abzer, Daniel Petras |
-| GNPS2 Analysis Workflow Migration | Axel Walter, Alberto, Mingxun Wang |
+| Hitchhiker's Guide to Statistical Analysis | Abzer K. Pakkir Shah, Francesco Russo, Filip Ottosson, Axel Walter, Eftychia Eva Kontou, Carolina González-Marín, Marcelo Navarro-Diaz, Shane Farrell, Marie R. Aggerbeck, Judith Boldt, Thapanee Pruksatrakul, Jarmo-Charles J. Kalinski, Alexandros Polyzois, Magdalena Pöchhacker, Martin Hansen, Robin Schmid, Steffen Heuckeroth, Nathan Chan, Mingxun Wang, Allegra Aron, Jan Stanstrup, Madeleine Ernst, Daniel Petras |
+| GNPS2 Analysis Workflow Migration | Axel Walter, Alberto Gil de la Fuente, Mingxun Wang |
 
 
 ## Join the Team
