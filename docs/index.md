@@ -8,6 +8,8 @@ The V-MOL, led by Mingxun Wang, Allegra Aron and Daniel Petras aims to connect c
 
 ## Projects
 
+Here is an abbreviated list of projects that are completed or in progress. Some early stage projects are not listed but if you want to learn about them or join, please come to our meetings. 
+
 | Project Name | People |
 | ------------ | ------ |
 | Elucidating the Chemistry of La Jolla Stromatolites| Denise Selegato, Jarmo Kalinski, Alexandros Polyzois, Maïa Henry, Allegra Aron |
