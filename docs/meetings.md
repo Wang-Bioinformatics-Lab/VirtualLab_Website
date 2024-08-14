@@ -1,11 +1,5 @@
-## Quarterly Symposium
-
-The quarterly symposium is a meeting of the virtual lab, where we discuss the progress of all projects and introduce new members joining the community. Here is a table of the past symposia:
-
-| Date | Recording |
-| ---- | --------- |
 
 
-## On-going Lab Meetings
+## On-Going VMOL Online Workshop/Symposia
 
-We will be holding bi-weekly (every two weeks) short lab meetings to update everyone involved in projects on the project status.
+We will be holding bi-weekly (every two weeks) short meeting where members present new tools, check out the schedule [here](https://docs.google.com/document/d/1ZIsOKB6BivM9GOQuQvfWoiuVJWYefuAz0y0iTi_u_uk/edit). 
